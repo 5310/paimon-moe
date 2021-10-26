@@ -3104,7 +3104,7 @@ export const builds = {
         mainStats: {
           sands: 'Energy Recharge',
           goblet: 'HP%',
-          circlet: 'Flat HP',
+          circlet: 'HP%',
         },
         subStats: ['Energy Recharge', 'HP%', 'Flat HP'],
         talent: ['Burst', 'Skill', 'Normal Attack'],
